@@ -1,0 +1,10 @@
+build/
+bin/
+*.o
+*.d
+*.sav
+*.s[0-9]
+*.state
+screenshot-*.png
+trace*.log
+.gbcfg.c

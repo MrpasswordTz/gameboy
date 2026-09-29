@@ -1,0 +1,22 @@
+For those on Mac and Linux you will have to use different guides to help you ensure you compile the program correctly according to the different architectures of your respective systems.
+
+
+For this weekend. I need you all to build a Gameboy Emulator in C. 
+
+Use this as your guide. 
+https://cturt.github.io/cinoop.html
+
+If you meet items you don’t understand, Claude and ChatGPT are your friends.  
+
+The goal of this exercise is to help you understand how memory works in detail and get your hands dirty with the underlying architecture of how computers work.
+
+https://youtu.be/mpNWEbZdXNw?si=5NRGy_W0SkfjIohZ
+https://youtu.be/Ry5RfdirtY0?si=MlAO_zzNltr07D7J
+
+
+https://youtu.be/mpNWEbZdXNw?si=5NRGy_W0SkfjIohZ
+
+
+https://www.copetti.org/writings/consoles/game-boy-advance/
+
+
